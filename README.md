@@ -79,4 +79,5 @@ Located in **[docs/](docs)** directory...
 **[meson_split_function.pdf](meson_split_function.pdf)** : Summary of splitting functions used in **[barry_split_func.py](src/functions/split_functions/barry_split_func.py)** by Patrick Barry & Richard L. Trotta  <br>
 	
 	
-*This code is maintained by Richard L. Trotta (trottar.iii@gmail.com).*
+*Originally developed by Richard L. Trotta (trottar.iii@gmail.com)*
+*Currently maintained by Avnish Singh (singhav@cua.edu)*
