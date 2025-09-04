@@ -1,0 +1,9 @@
+#xbinwidth=0.001
+#qbinwidth=10.0
+#tbinwidth=0.10
+#xLbinwidth=0.10
+#
+xbinwidth=0.001
+qbinwidth=1.0
+tbinwidth=0.10
+xLbinwidth=0.10
